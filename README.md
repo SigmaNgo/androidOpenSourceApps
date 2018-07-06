@@ -5,3 +5,5 @@
 1. https://github.com/paug/AndroidMakersApp
 1. https://github.com/wireapp/wire-android
 1. https://github.com/duckduckgo/Android
+1. https://github.com/signalapp/Signal-Android
+https://github.com/Hype-Labs/HypeChatDemo.android
