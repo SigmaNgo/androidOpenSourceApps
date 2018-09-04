@@ -6,4 +6,25 @@
 1. https://github.com/wireapp/wire-android
 1. https://github.com/duckduckgo/Android
 1. https://github.com/signalapp/Signal-Android
-https://github.com/Hype-Labs/HypeChatDemo.android
+1. https://github.com/Hype-Labs/HypeChatDemo.android
+1. https://github.com/HoraApps/LeafPic
+1. https://github.com/SimpleMobileTools/Simple-Calendar
+1. https://github.com/arpitkh96/AmazeFileManager
+1. https://github.com/dkim0419/SoundRecorder
+1. https://github.com/javiersantos/MLManager
+1. https://github.com/afollestad/photo-affix
+1. https://github.com/esoxjem/MovieGuide
+1. https://github.com/1hakr/AnExplorer
+1. https://github.com/avjinder/Minimal-Todo
+1. https://github.com/naman14/Timber
+1. https://github.com/AntonioRedondo/AnotherMonitor
+1. https://github.com/frogermcs/InstaMaterial
+1. https://github.com/Nightonke/CoCoin
+1. https://github.com/federicoiosue/Omni-Notes
+1. https://github.com/heruoxin/Clip-Stack
+1. https://github.com/joyoyao/superCleanMaster
+1. https://github.com/Swati4star/Travel-Mate
+1. https://github.com/Neamar/KISS
+1. https://github.com/vmihalachi/turbo-editor
+1. https://github.com/Musenkishi/wally
+1. https://github.com/j4velin/Pedometer
