@@ -28,3 +28,4 @@
 1. https://github.com/vmihalachi/turbo-editor
 1. https://github.com/Musenkishi/wally
 1. https://github.com/j4velin/Pedometer
+1. https://github.com/hitherejoe/Notifi
