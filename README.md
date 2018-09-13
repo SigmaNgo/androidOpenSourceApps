@@ -32,4 +32,4 @@
 1. https://github.com/googlesamples/android-sunflower
 1. https://github.com/chrisbanes/tivi
 1. https://github.com/OneBusAway/onebusaway-android
-1. hhttps://github.com/uber/rides-android-sdk/tree/master/samples
+1. https://github.com/uber/rides-android-sdk/tree/master/samples
