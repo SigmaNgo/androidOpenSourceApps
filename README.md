@@ -34,3 +34,5 @@
 1. https://github.com/OneBusAway/onebusaway-android
 1. https://github.com/uber/rides-android-sdk/tree/master/samples
 1. https://github.com/signalapp/Signal-Android
+1. https://github.com/andremion/Music-Player
+1. https://github.com/andremion/Theatre
