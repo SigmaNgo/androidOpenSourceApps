@@ -36,3 +36,4 @@
 1. https://github.com/signalapp/Signal-Android
 1. https://github.com/andremion/Music-Player
 1. https://github.com/andremion/Theatre
+1. https://github.com/videolan/vlc-android
