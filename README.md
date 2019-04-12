@@ -40,3 +40,8 @@
 1. https://github.com/fython/PackageTracker
 1. https://github.com/google/iosched
 1. https://github.com/AndreaCioccarelli/MusicDownloader
+1. https://github.com/Dariasteam/TowerJumper
+1. https://github.com/mthli/Ninja
+1. https://github.com/fython-tools/PinSettings
+1. https://github.com/nickink/darkknight
+1. https://github.com/ligi/PassAndroid/
