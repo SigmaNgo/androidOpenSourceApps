@@ -45,3 +45,4 @@
 1. https://github.com/fython-tools/PinSettings
 1. https://github.com/nickink/darkknight
 1. https://github.com/ligi/PassAndroid/
+1. https://github.com/ligi/SurvivalManual/wiki
