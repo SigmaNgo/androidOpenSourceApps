@@ -46,3 +46,4 @@
 1. https://github.com/nickink/darkknight
 1. https://github.com/ligi/PassAndroid/
 1. https://github.com/ligi/SurvivalManual/wiki
+1. https://github.com/AnnKrepchenko/YourShoppingList
