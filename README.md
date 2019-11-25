@@ -58,3 +58,4 @@
 1. https://github.com/yaa110/Effects-Pro
 1. https://github.com/Taishi-Y/MusicIndicator
 1. https://github.com/alisonthemonster/Presently
+1. https://github.com/ogarcia/opensudoku
