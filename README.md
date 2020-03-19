@@ -60,4 +60,4 @@
 1. https://github.com/alisonthemonster/Presently
 1. https://github.com/ogarcia/opensudoku
 1. https://github.com/CUTR-at-USF/awesome-transit#native-apps-open-source
-1. https://code.google.com/archive/p/andnav/
+1. http://www.andnav.org/
