@@ -1,7 +1,7 @@
 # List of Android applications with open source code
 1. https://github.com/DrKLO/Telegram
 1. https://github.com/Mybridge/amazing-android-apps
-1. [ring-client-android](https://git.ring.cx/savoirfairelinux/ring-client-androidhttps://git.ring.cx/savoirfairelinux/ring-client-android)
+1. https://git.ring.cx/savoirfairelinux/ring-client-androidhttps://git.ring.cx/savoirfairelinux/ring-client-android
 1. https://github.com/sromku/memory-game
 1. https://github.com/everythingandroid/android-smspopup
 1. https://github.com/paug/AndroidMakersApp
@@ -59,3 +59,4 @@
 1. https://github.com/Taishi-Y/MusicIndicator
 1. https://github.com/alisonthemonster/Presently
 1. https://github.com/ogarcia/opensudoku
+1. https://github.com/CUTR-at-USF/awesome-transit#native-apps-open-source
